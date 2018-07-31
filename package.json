@@ -1,0 +1,39 @@
+{
+  "name": "helloworld",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack-dev-server --hot",
+    "production": "webpack -p --progress"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ag-grid": "^12.0.2",
+    "ag-grid-react": "^12.0.0",
+    "babel-core": "^6.9.1",
+    "babel-loader": "^6.2.4",
+    "babel-plugin-react-css-modules": "^3.2.1",
+    "babel-preset-es2015": "^6.9.0",
+    "babel-preset-react": "^6.5.0",
+    "css-loader": "^0.28.5",
+    "highcharts": "^5.0.14",
+    "papaparse": "^4.3.6",
+    "react": "^15.6.1",
+    "react-bootstrap": "^0.31.1",
+    "react-css-modules": "^4.7.1",
+    "react-d3": "^0.4.0",
+    "react-dom": "^15.6.1",
+    "react-highcharts": "^12.0.0",
+    "react-router": "^4.1.2",
+    "react-router-dom": "^4.1.2",
+    "redux": "^3.7.2",
+    "webpack": "^1.13.1",
+    "webpack-dev-server": "^1.14.1"
+  },
+  "devDependencies": {
+    "style-loader": "^0.18.2"
+  }
+}

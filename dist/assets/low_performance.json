@@ -1,0 +1,40 @@
+[{
+  "symbol": "PFIE",
+  "(tday - ystdy)": -5.9604644775390625E-8
+},
+  {
+    "symbol": "KGJI",
+    "(tday - ystdy)": -1.1920928955078125E-7
+  },
+  {
+    "symbol": "VDTH",
+    "(tday - ystdy)": -9.5367431640625E-7
+  },
+  {
+    "symbol": "PCAR",
+    "(tday - ystdy)": -3.814697265625E-6
+  },
+  {
+    "symbol": "KWEB",
+    "(tday - ystdy)": -3.814697265625E-6
+  },
+  {
+    "symbol": "FDIV",
+    "(tday - ystdy)": -9.9945068359375E-4
+  }, {
+  "symbol": "DELT",
+  "(tday - ystdy)": -0.001999974250793457
+},
+  {
+    "symbol": "JAGX",
+    "(tday - ystdy)": -0.003999948501586914
+  },
+  {
+    "symbol": "AGRX",
+    "(tday - ystdy)": -0.004999637603759766
+  },
+  {
+    "symbol": "UNTY",
+    "(tday - ystdy)": -0.009091377258300781
+  }
+]
